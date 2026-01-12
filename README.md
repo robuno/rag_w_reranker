@@ -1,4 +1,4 @@
-# RAG Evaluatior with Rerank
+# RAG Evaluator with Rerank
 
 This project aims to create a RAG pipeline by combining HuggingFace models with LangChain Cohere Rerank modules and create a ready notebook to evaluate the results. 
 
